@@ -36,7 +36,7 @@ def check_if_site_available(site):
                 "xxx",
                 "movies",
             ],
-            "limit": 100,
+            "limit": 15,
         },
         "torlock": {
             "website": Torlock,
